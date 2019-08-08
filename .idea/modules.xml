@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" filepath="$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spirng-cloud.iml" filepath="$PROJECT_DIR$/spirng-cloud.iml" />
+    </modules>
+  </component>
+</project>
